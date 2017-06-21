@@ -84,15 +84,22 @@ Downloadをクリック。
 ダウンロードしたViewMate_Setup.zipを解凍し、ViewMate_Setup.exeを起動
 
 ![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture11.PNG?raw=true)
+
+同意にチェックを入れてnext
 ![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture12.PNG?raw=true)
+
+登録したメールアドレスに届いたシリアル番号をコピー
 ![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture13.PNG?raw=true)
+
+貼り付け
 ![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture14.PNG?raw=true)
 ![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture15.PNG?raw=true)
 ![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture16.PNG?raw=true)
 ![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture17.PNG?raw=true)
 ![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture18.PNG?raw=true)
+ここまででインストール完了です。
 
-
+　　
 
 ## Arduinoのデータを見る
 
