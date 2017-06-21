@@ -18,8 +18,40 @@
 
 ## ソフトウェアのインストール
 - eagle
+
+[ここ](https://www.autodesk.com/products/eagle/overview)からダウンロードします。  
+DOWNLOAD FOR FREEをクリック。
 ![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/419.png?raw=true)
+
+使用しているOSを選択してください。
+
+ここからはWindows前提で説明します。
 ![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/420.png?raw=true)
+
+ダウンロードしてきたインストーラをダブルクリック。
+
+![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture1.PNG?raw=true)
+
+同意にチェックを入れ、次へ。
+
+![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture2.PNG?raw=true)
+![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture3.PNG?raw=true)
+![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture4.PNG?raw=true)
+![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture5.PNG?raw=true)
+
+Finishをクリックすると、PCが再起動します。
+![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture6.PNG?raw=true)
+
+EAGLEを起動
+
+![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture10.PNG?raw=true)
+
+アカウントを作成する。
+![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture7.PNG?raw=true)
+![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture8.PNG?raw=true)
+![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/capture9.PNG?raw=true)
+ここまででインストール完了です。
+
 - ViewMate
 
 
