@@ -6,7 +6,7 @@
 ## 本日のスケジュール
 午前　インストール～発注方法
 
-午後　オリジナル要素の追加
+午後　オリジナル要素の追加～発注
 
 ## 用語説明
 ### Arduino
@@ -71,6 +71,9 @@ https://www.pentalogix.com/t/software-products/viewmate
 次の住所入力を無視して
 https://www.pentalogix.com/t/software-products/viewmate
 に再度アクセスします。
+
+Free Download　をクリック
+![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/421.png?raw=true)
 
 住所やアンケートに答えます。
 ![インストール](https://github.com/HappySato/original_arduino_workshop/blob/master/img/423.png?raw=true)
