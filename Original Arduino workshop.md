@@ -145,7 +145,7 @@ Downloadをクリック。
 
  「Eagle Design Rule」をダウンロード。
   Zipを解凍します。
-
+  http://easylabo.com/2014/08/eagle/1625/
   今回発注するのは2層の基板なので「Elecrow_2-layer_PCB_eagle_rule.dru」を使用します。
 
 
