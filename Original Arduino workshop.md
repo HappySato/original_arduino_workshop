@@ -180,6 +180,8 @@ Downloadをクリック。
 ## シルク（基板上の文字）を書こう
 http://www.technoveins.co.jp/develop/eagle/layer.htm
 21
+画像
+http://www.s-m-l.org/silk_logo.html
 ## 画像をランド（メッキ）で表現しよう
 ## 部品を追加しよう
 ## センサーを追加しよう
