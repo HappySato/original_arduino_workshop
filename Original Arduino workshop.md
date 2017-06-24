@@ -183,5 +183,6 @@ http://www.technoveins.co.jp/develop/eagle/layer.htm
 画像
 http://www.s-m-l.org/silk_logo.html
 ## 画像をランド（メッキ）で表現しよう
+１と29にいれる
 ## 部品を追加しよう
 ## センサーを追加しよう
